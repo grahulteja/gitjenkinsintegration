@@ -1,0 +1,122 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C6CA-48AA
+
+ Directory of C:\Users\rahul teja
+
+30-09-2020  21:25    <DIR>          .
+30-09-2020  21:25    <DIR>          ..
+15-03-2019  11:08    <DIR>          .android
+25-09-2016  10:35    <DIR>          .AndroidStudio2.2
+22-09-2018  12:34    <DIR>          .AndroidStudio3.1
+28-12-2018  22:42    <DIR>          .config
+28-12-2018  14:54    <DIR>          .cordova
+03-09-2020  10:01    <DIR>          .docker
+17-07-2019  19:35    <DIR>          .dotnet
+09-07-2017  01:24    <DIR>          .eclipse
+12-04-2018  17:25                16 .emulator_console_auth_token
+25-09-2016  14:56    <DIR>          .gradle
+30-09-2020  19:19    <DIR>          .idlerc
+13-05-2020  21:51    <DIR>          .ipynb_checkpoints
+03-07-2019  12:46    <DIR>          .ipython
+25-08-2016  15:15    <DIR>          .jmc
+16-03-2017  10:44    <DIR>          .jssc
+15-04-2020  14:08    <DIR>          .jupyter
+15-04-2020  14:22    <DIR>          .matplotlib
+15-03-2019  10:49    <DIR>          .nuget
+17-04-2020  22:09    <DIR>          .oracle
+25-08-2016  15:14    <DIR>          .oracle_jre_usage
+17-05-2019  10:07               186 .packettracer
+17-04-2020  04:05    <DIR>          .spyder-py3
+15-03-2019  10:52    <DIR>          .templateengine
+07-08-2020  06:42    <DIR>          3D Objects
+15-04-2020  13:59    <DIR>          anaconda3
+15-04-2020  13:14       488,908,696 Anaconda3-2020.02-Windows-x86_64.exe
+15-11-2018  18:18    <DIR>          AndroidStudioProjects
+03-09-2020  22:52    <DIR>          apache-maven-3.6.3-bin
+03-09-2020  22:50         9,602,303 apache-maven-3.6.3-bin.zip
+21-07-2017  17:54        24,076,952 Application_6NJ28_WN32_1.0.0.1_A00.EXE
+03-02-2019  22:01    <DIR>          Aspire-CANA
+31-03-2020  14:44         1,628,105 BI.zip
+09-07-2017  01:20    <DIR>          bluej
+02-09-2018  16:00    <DIR>          blujava
+21-07-2017  18:00        23,245,432 Chipset_Driver_2YH8M_WN32_6.3.9600.39060_A00.EXE
+21-07-2017  18:02        10,478,976 Chipset_Driver_RP61T_WN_1.1.226.0_A00.EXE
+21-07-2017  18:11        90,182,152 Chipset_Driver_T8DP7_WN32_10.0.30.1072_A00.EXE
+12-04-2019  21:18    <DIR>          Cisco Packet Tracer 7.2.1
+03-06-2020  18:39        43,462,544 CitrixReceiver.exe
+12-04-2020  15:52           294,360 ConnectSetup.exe
+07-08-2020  06:42    <DIR>          Contacts
+18-05-2020  15:08            11,817 Copy of REG_BI V3_12 Mar 20_CHN Sip (INF +TD + Tableau).xlsx
+26-05-2020  10:21            31,644 Copy of Tableau.xlsx
+17-04-2020  01:33                 0 copy.txt
+17-04-2020  01:31             2,468 copyfile.ipynb
+21-07-2017  18:03        16,034,256 CPU_Driver_0T8F9_WN32_10.0.22_A01.EXE
+15-05-2020  21:36            24,069 day 2.ipynb
+29-08-2017  22:43           519,600 DellSystemDetectLauncher.exe
+25-09-2020  09:39    <DIR>          Desktop
+02-09-2020  23:46       392,089,808 Docker Desktop Installer.exe
+07-08-2020  06:42    <DIR>          Documents
+30-09-2020  21:19    <DIR>          Downloads
+07-08-2020  06:42    <DIR>          Favorites
+03-06-2020  18:13        10,520,312 gamedownload_tencent-gaming-buddy_1.0.12058.123.exe
+21-07-2017  17:55         5,315,448 Inspiron_5458_A14.exe
+28-08-2017  20:11       194,684,448 Intel-3160-3165-7260-7265-8260-Wi-Fi-Driver_YJNRX_WIN_19.60.0.7_A09.EXE
+03-09-2020  15:58        72,503,296 jenkins.msi
+31-03-2020  14:56           257,804 LearningJourneys.zip
+07-08-2020  06:42    <DIR>          Links
+30-09-2020  21:25                 0 listing.txt
+17-04-2020  00:11               204 mathematic.py
+17-04-2020  03:50               387 mathematics.py
+05-03-2020  10:17    <DIR>          Music
+21-07-2017  18:09        48,802,160 Network_Application_0N0VP_WN32_17.1.1411.506_A00.EXE
+21-07-2017  18:04         6,660,480 Network_Driver_4P0C3_WN_1.4.0.0_A00.EXE
+21-07-2017  18:05        23,184,112 Network_Driver_88YY7_WN64_8.035.0716.2014_A00.EXE
+21-07-2017  18:21       201,133,080 Network_Driver_N1TK1_WN32_18.33.0_A05.EXE
+21-07-2017  18:09        42,862,016 Network_Driver_TG41V_WN_17.1.1407.474_A00.EXE
+29-09-2020  17:00    <DIR>          OneDrive
+17-04-2020  23:29    <DIR>          Oracle
+15-09-2020  15:01    <DIR>          Pictures
+07-05-2020  00:32         3,168,256 putty-64bit-0.73-installer.msi
+25-03-2020  10:50        26,481,424 python-3.8.2.exe
+17-04-2020  03:05    <DIR>          pythondemo
+23-04-2020  12:00        14,176,256 rahul.msi
+17-04-2020  03:46               240 rahul.py
+17-04-2020  04:16            14,382 rahulpython.ipynb
+18-04-2020  19:42                44 RahulTeja.sql
+19-04-2020  23:55               167 RahulTeja1.sql
+03-06-2020  19:08               681 receiverconfig (1).cr
+03-06-2020  19:04               681 receiverconfig.cr
+03-06-2020  18:37           536,976 ReceiverUpdaterCertWindows.exe
+01-04-2017  21:21    <DIR>          Roaming
+30-03-2020  10:54         5,390,336 SafeNet MobilePASS.msi
+07-08-2020  06:42    <DIR>          Saved Games
+07-08-2020  06:42    <DIR>          Searches
+21-07-2017  18:09        25,126,648 Serial-ATA_Driver_TR3FG_WN32_13.2.0.1016_A00.EXE
+15-04-2020  11:44         5,669,840 Setup.exe
+21-02-2016  22:06    <DIR>          SkyDrive
+22-05-2020  12:14        14,176,256 SkypeMeetingsApp (1).msi
+07-05-2020  10:42        14,176,256 SkypeMeetingsApp.msi
+28-12-2018  20:23    <DIR>          source
+25-05-2020  21:29       502,698,800 TableauDesktop-64bit-2020-2-0.exe
+27-03-2020  13:16    <DIR>          takeout-20200327T074533Z-001
+27-03-2020  13:16           198,605 takeout-20200327T074533Z-001.zip
+14-05-2020  09:44        97,768,192 Teams_windows_x64_s_8D7F7BCC5BEB155-7-0_.exe
+31-03-2020  20:41    <DIR>          TeradataToolsAndUtilitiesBase__windows_indep.16.20.25.00
+31-03-2020  16:13       337,059,701 TeradataToolsAndUtilitiesBase__windows_indep.16.20.25.00.zip
+30-01-2016  23:40    <DIR>          Tracing
+16-04-2020  17:22             7,349 Untitled.ipynb
+16-04-2020  23:24               781 Untitled1.ipynb
+17-04-2020  04:48             1,773 Untitled2.ipynb
+17-04-2020  02:17             4,357 Untitled3.ipynb
+17-04-2020  01:25             2,468 Untitled4.ipynb
+17-04-2020  05:07            16,247 Untitled5.ipynb
+15-05-2020  22:03             3,562 Untitled6.ipynb
+19-09-2020  09:01    <DIR>          Videos
+21-07-2017  18:20       134,372,688 Video_Driver_YM4WW_WN32_10.18.14.4414_A03.EXE
+13-05-2020  22:29       693,636,160 Visual_Paradigm_CE_16_1_20200501_Win64.exe
+21-07-2017  18:19       139,253,960 WiDi_Utility_Intel_A00_WIN764WIN8.164-SETUP_ZPE.exe
+17-04-2020  14:41    <DIR>          win64_11gR2_database_1of2
+09-07-2017  01:24    <DIR>          workspace
+17-04-2020  03:52    <DIR>          __pycache__
+              61 File(s)  3,720,460,217 bytes
+              54 Dir(s)  303,046,283,264 bytes free
